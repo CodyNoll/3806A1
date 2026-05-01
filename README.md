@@ -26,7 +26,6 @@ The project implements and evaluates a small automated reasoner for first-order 
 │   ├── generated_large_quantifier_results.csv
 │   ├── quantifier_stress_results.csv
 │   └── textbook_examples_results.csv
-└── README_Submission_Checklist.md
 ```
 
 ## Source Code
