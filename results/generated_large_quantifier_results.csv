@@ -1,0 +1,241 @@
+dataset,formula,strategy,status,valid,steps,closed_branches,open_branches,max_depth,fresh_terms,time_ms
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_01,baseline,not proved,False,11,0,1,10,8,0.946
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_01,improved,valid,True,6,1,1,4,2,0.238
+datasets/generated_large_quantifier.fol,fo_exists_weaken_01,baseline,valid,True,5,1,0,4,2,0.230
+datasets/generated_large_quantifier.fol,fo_exists_weaken_01,improved,valid,True,5,1,0,4,2,0.154
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_01,baseline,not proved,False,12,0,1,11,10,0.756
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_01,improved,step/depth limit,False,101,0,47,11,36,6.712
+datasets/generated_large_quantifier.fol,fo_and_split_01,baseline,valid,True,10,2,0,5,6,0.338
+datasets/generated_large_quantifier.fol,fo_and_split_01,improved,valid,True,10,2,0,5,6,0.375
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_01,baseline,not proved,False,4,0,1,3,3,0.108
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_01,improved,not proved,False,6,0,2,3,4,0.108
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_01,baseline,not proved,False,12,0,1,11,9,0.863
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_01,improved,step/depth limit,False,101,0,37,18,69,10.352
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_02,baseline,not proved,False,11,0,1,10,8,0.553
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_02,improved,valid,True,6,1,1,4,2,0.160
+datasets/generated_large_quantifier.fol,fo_exists_weaken_02,baseline,valid,True,5,1,0,4,2,0.145
+datasets/generated_large_quantifier.fol,fo_exists_weaken_02,improved,valid,True,5,1,0,4,2,0.150
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_02,baseline,not proved,False,12,0,1,11,10,0.770
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_02,improved,step/depth limit,False,101,0,47,11,36,6.287
+datasets/generated_large_quantifier.fol,fo_and_split_02,baseline,valid,True,10,2,0,5,6,0.323
+datasets/generated_large_quantifier.fol,fo_and_split_02,improved,valid,True,10,2,0,5,6,0.380
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_02,baseline,not proved,False,4,0,1,3,3,0.074
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_02,improved,not proved,False,6,0,2,3,4,0.098
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_02,baseline,not proved,False,12,0,1,11,9,0.738
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_02,improved,step/depth limit,False,101,0,37,18,69,10.447
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_03,baseline,not proved,False,11,0,1,10,8,0.594
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_03,improved,valid,True,6,1,1,4,2,0.159
+datasets/generated_large_quantifier.fol,fo_exists_weaken_03,baseline,valid,True,5,1,0,4,2,0.148
+datasets/generated_large_quantifier.fol,fo_exists_weaken_03,improved,valid,True,5,1,0,4,2,0.191
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_03,baseline,not proved,False,12,0,1,11,10,0.711
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_03,improved,step/depth limit,False,101,0,47,11,36,6.298
+datasets/generated_large_quantifier.fol,fo_and_split_03,baseline,valid,True,10,2,0,5,6,0.364
+datasets/generated_large_quantifier.fol,fo_and_split_03,improved,valid,True,10,2,0,5,6,0.377
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_03,baseline,not proved,False,4,0,1,3,3,0.071
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_03,improved,not proved,False,6,0,2,3,4,0.119
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_03,baseline,not proved,False,12,0,1,11,9,0.773
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_03,improved,step/depth limit,False,101,0,37,18,69,11.268
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_04,baseline,not proved,False,11,0,1,10,8,0.876
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_04,improved,valid,True,6,1,1,4,2,0.185
+datasets/generated_large_quantifier.fol,fo_exists_weaken_04,baseline,valid,True,5,1,0,4,2,0.147
+datasets/generated_large_quantifier.fol,fo_exists_weaken_04,improved,valid,True,5,1,0,4,2,0.148
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_04,baseline,not proved,False,12,0,1,11,10,0.842
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_04,improved,step/depth limit,False,101,0,47,11,36,6.689
+datasets/generated_large_quantifier.fol,fo_and_split_04,baseline,valid,True,10,2,0,5,6,0.316
+datasets/generated_large_quantifier.fol,fo_and_split_04,improved,valid,True,10,2,0,5,6,0.366
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_04,baseline,not proved,False,4,0,1,3,3,0.108
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_04,improved,not proved,False,6,0,2,3,4,0.122
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_04,baseline,not proved,False,12,0,1,11,9,0.768
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_04,improved,step/depth limit,False,101,0,37,18,69,11.076
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_05,baseline,not proved,False,11,0,1,10,8,0.661
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_05,improved,valid,True,6,1,1,4,2,0.202
+datasets/generated_large_quantifier.fol,fo_exists_weaken_05,baseline,valid,True,5,1,0,4,2,0.146
+datasets/generated_large_quantifier.fol,fo_exists_weaken_05,improved,valid,True,5,1,0,4,2,0.231
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_05,baseline,not proved,False,12,0,1,11,10,0.985
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_05,improved,step/depth limit,False,101,0,47,11,36,7.136
+datasets/generated_large_quantifier.fol,fo_and_split_05,baseline,valid,True,10,2,0,5,6,0.316
+datasets/generated_large_quantifier.fol,fo_and_split_05,improved,valid,True,10,2,0,5,6,0.321
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_05,baseline,not proved,False,4,0,1,3,3,0.070
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_05,improved,not proved,False,6,0,2,3,4,0.104
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_05,baseline,not proved,False,12,0,1,11,9,0.897
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_05,improved,step/depth limit,False,101,0,37,18,69,10.706
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_06,baseline,not proved,False,11,0,1,10,8,0.579
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_06,improved,valid,True,6,1,1,4,2,0.211
+datasets/generated_large_quantifier.fol,fo_exists_weaken_06,baseline,valid,True,5,1,0,4,2,0.162
+datasets/generated_large_quantifier.fol,fo_exists_weaken_06,improved,valid,True,5,1,0,4,2,0.151
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_06,baseline,not proved,False,12,0,1,11,10,0.731
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_06,improved,step/depth limit,False,101,0,47,11,36,6.559
+datasets/generated_large_quantifier.fol,fo_and_split_06,baseline,valid,True,10,2,0,5,6,0.319
+datasets/generated_large_quantifier.fol,fo_and_split_06,improved,valid,True,10,2,0,5,6,0.323
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_06,baseline,not proved,False,4,0,1,3,3,0.074
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_06,improved,not proved,False,6,0,2,3,4,0.107
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_06,baseline,not proved,False,12,0,1,11,9,0.785
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_06,improved,step/depth limit,False,101,0,37,18,69,11.718
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_07,baseline,not proved,False,11,0,1,10,8,0.626
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_07,improved,valid,True,6,1,1,4,2,0.203
+datasets/generated_large_quantifier.fol,fo_exists_weaken_07,baseline,valid,True,5,1,0,4,2,0.170
+datasets/generated_large_quantifier.fol,fo_exists_weaken_07,improved,valid,True,5,1,0,4,2,0.165
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_07,baseline,not proved,False,12,0,1,11,10,0.717
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_07,improved,step/depth limit,False,101,0,47,11,36,6.862
+datasets/generated_large_quantifier.fol,fo_and_split_07,baseline,valid,True,10,2,0,5,6,0.467
+datasets/generated_large_quantifier.fol,fo_and_split_07,improved,valid,True,10,2,0,5,6,0.322
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_07,baseline,not proved,False,4,0,1,3,3,0.071
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_07,improved,not proved,False,6,0,2,3,4,0.114
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_07,baseline,not proved,False,12,0,1,11,9,0.758
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_07,improved,step/depth limit,False,101,0,37,18,69,9.998
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_08,baseline,not proved,False,11,0,1,10,8,0.557
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_08,improved,valid,True,6,1,1,4,2,0.189
+datasets/generated_large_quantifier.fol,fo_exists_weaken_08,baseline,valid,True,5,1,0,4,2,0.144
+datasets/generated_large_quantifier.fol,fo_exists_weaken_08,improved,valid,True,5,1,0,4,2,0.147
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_08,baseline,not proved,False,12,0,1,11,10,0.689
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_08,improved,step/depth limit,False,101,0,47,11,36,6.181
+datasets/generated_large_quantifier.fol,fo_and_split_08,baseline,valid,True,10,2,0,5,6,0.498
+datasets/generated_large_quantifier.fol,fo_and_split_08,improved,valid,True,10,2,0,5,6,0.462
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_08,baseline,not proved,False,4,0,1,3,3,0.086
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_08,improved,not proved,False,6,0,2,3,4,0.139
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_08,baseline,not proved,False,12,0,1,11,9,0.735
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_08,improved,step/depth limit,False,101,0,37,18,69,10.848
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_09,baseline,not proved,False,11,0,1,10,8,0.703
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_09,improved,valid,True,6,1,1,4,2,0.199
+datasets/generated_large_quantifier.fol,fo_exists_weaken_09,baseline,valid,True,5,1,0,4,2,0.188
+datasets/generated_large_quantifier.fol,fo_exists_weaken_09,improved,valid,True,5,1,0,4,2,0.195
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_09,baseline,not proved,False,12,0,1,11,10,0.759
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_09,improved,step/depth limit,False,101,0,47,11,36,6.847
+datasets/generated_large_quantifier.fol,fo_and_split_09,baseline,valid,True,10,2,0,5,6,0.343
+datasets/generated_large_quantifier.fol,fo_and_split_09,improved,valid,True,10,2,0,5,6,0.326
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_09,baseline,not proved,False,4,0,1,3,3,0.071
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_09,improved,not proved,False,6,0,2,3,4,0.095
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_09,baseline,not proved,False,12,0,1,11,9,0.799
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_09,improved,step/depth limit,False,101,0,37,18,69,11.305
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_10,baseline,not proved,False,11,0,1,10,8,0.593
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_10,improved,valid,True,6,1,1,4,2,0.173
+datasets/generated_large_quantifier.fol,fo_exists_weaken_10,baseline,valid,True,5,1,0,4,2,0.145
+datasets/generated_large_quantifier.fol,fo_exists_weaken_10,improved,valid,True,5,1,0,4,2,0.175
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_10,baseline,not proved,False,12,0,1,11,10,0.712
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_10,improved,step/depth limit,False,101,0,47,11,36,6.082
+datasets/generated_large_quantifier.fol,fo_and_split_10,baseline,valid,True,10,2,0,5,6,0.313
+datasets/generated_large_quantifier.fol,fo_and_split_10,improved,valid,True,10,2,0,5,6,0.349
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_10,baseline,not proved,False,4,0,1,3,3,0.116
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_10,improved,not proved,False,6,0,2,3,4,0.152
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_10,baseline,not proved,False,12,0,1,11,9,0.923
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_10,improved,step/depth limit,False,101,0,37,18,69,11.211
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_11,baseline,not proved,False,11,0,1,10,8,0.602
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_11,improved,valid,True,6,1,1,4,2,0.160
+datasets/generated_large_quantifier.fol,fo_exists_weaken_11,baseline,valid,True,5,1,0,4,2,0.146
+datasets/generated_large_quantifier.fol,fo_exists_weaken_11,improved,valid,True,5,1,0,4,2,0.147
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_11,baseline,not proved,False,12,0,1,11,10,0.668
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_11,improved,step/depth limit,False,101,0,47,11,36,6.197
+datasets/generated_large_quantifier.fol,fo_and_split_11,baseline,valid,True,10,2,0,5,6,0.359
+datasets/generated_large_quantifier.fol,fo_and_split_11,improved,valid,True,10,2,0,5,6,0.323
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_11,baseline,not proved,False,4,0,1,3,3,0.074
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_11,improved,not proved,False,6,0,2,3,4,0.094
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_11,baseline,not proved,False,12,0,1,11,9,0.764
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_11,improved,step/depth limit,False,101,0,37,18,69,12.023
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_12,baseline,not proved,False,11,0,1,10,8,0.819
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_12,improved,valid,True,6,1,1,4,2,0.165
+datasets/generated_large_quantifier.fol,fo_exists_weaken_12,baseline,valid,True,5,1,0,4,2,0.147
+datasets/generated_large_quantifier.fol,fo_exists_weaken_12,improved,valid,True,5,1,0,4,2,0.147
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_12,baseline,not proved,False,12,0,1,11,10,0.701
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_12,improved,step/depth limit,False,101,0,47,11,36,5.931
+datasets/generated_large_quantifier.fol,fo_and_split_12,baseline,valid,True,10,2,0,5,6,0.317
+datasets/generated_large_quantifier.fol,fo_and_split_12,improved,valid,True,10,2,0,5,6,0.321
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_12,baseline,not proved,False,4,0,1,3,3,0.071
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_12,improved,not proved,False,6,0,2,3,4,0.128
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_12,baseline,not proved,False,12,0,1,11,9,0.718
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_12,improved,step/depth limit,False,101,0,37,18,69,10.408
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_13,baseline,not proved,False,11,0,1,10,8,0.525
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_13,improved,valid,True,6,1,1,4,2,0.171
+datasets/generated_large_quantifier.fol,fo_exists_weaken_13,baseline,valid,True,5,1,0,4,2,0.213
+datasets/generated_large_quantifier.fol,fo_exists_weaken_13,improved,valid,True,5,1,0,4,2,0.184
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_13,baseline,not proved,False,12,0,1,11,10,0.870
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_13,improved,step/depth limit,False,101,0,47,11,36,6.834
+datasets/generated_large_quantifier.fol,fo_and_split_13,baseline,valid,True,10,2,0,5,6,0.371
+datasets/generated_large_quantifier.fol,fo_and_split_13,improved,valid,True,10,2,0,5,6,0.374
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_13,baseline,not proved,False,4,0,1,3,3,0.095
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_13,improved,not proved,False,6,0,2,3,4,0.156
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_13,baseline,not proved,False,12,0,1,11,9,0.818
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_13,improved,step/depth limit,False,101,0,37,18,69,10.836
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_14,baseline,not proved,False,11,0,1,10,8,0.593
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_14,improved,valid,True,6,1,1,4,2,0.267
+datasets/generated_large_quantifier.fol,fo_exists_weaken_14,baseline,valid,True,5,1,0,4,2,0.215
+datasets/generated_large_quantifier.fol,fo_exists_weaken_14,improved,valid,True,5,1,0,4,2,0.194
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_14,baseline,not proved,False,12,0,1,11,10,0.778
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_14,improved,step/depth limit,False,101,0,47,11,36,6.947
+datasets/generated_large_quantifier.fol,fo_and_split_14,baseline,valid,True,10,2,0,5,6,0.421
+datasets/generated_large_quantifier.fol,fo_and_split_14,improved,valid,True,10,2,0,5,6,0.343
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_14,baseline,not proved,False,4,0,1,3,3,0.092
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_14,improved,not proved,False,6,0,2,3,4,0.097
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_14,baseline,not proved,False,12,0,1,11,9,0.740
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_14,improved,step/depth limit,False,101,0,37,18,69,12.473
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_15,baseline,not proved,False,11,0,1,10,8,0.547
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_15,improved,valid,True,6,1,1,4,2,0.190
+datasets/generated_large_quantifier.fol,fo_exists_weaken_15,baseline,valid,True,5,1,0,4,2,0.279
+datasets/generated_large_quantifier.fol,fo_exists_weaken_15,improved,valid,True,5,1,0,4,2,0.172
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_15,baseline,not proved,False,12,0,1,11,10,0.692
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_15,improved,step/depth limit,False,101,0,47,11,36,6.661
+datasets/generated_large_quantifier.fol,fo_and_split_15,baseline,valid,True,10,2,0,5,6,0.504
+datasets/generated_large_quantifier.fol,fo_and_split_15,improved,valid,True,10,2,0,5,6,0.487
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_15,baseline,not proved,False,4,0,1,3,3,0.102
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_15,improved,not proved,False,6,0,2,3,4,0.140
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_15,baseline,not proved,False,12,0,1,11,9,1.060
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_15,improved,step/depth limit,False,101,0,37,18,69,13.645
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_16,baseline,not proved,False,11,0,1,10,8,0.810
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_16,improved,valid,True,6,1,1,4,2,0.232
+datasets/generated_large_quantifier.fol,fo_exists_weaken_16,baseline,valid,True,5,1,0,4,2,0.209
+datasets/generated_large_quantifier.fol,fo_exists_weaken_16,improved,valid,True,5,1,0,4,2,0.213
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_16,baseline,not proved,False,12,0,1,11,10,0.961
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_16,improved,step/depth limit,False,101,0,47,11,36,7.130
+datasets/generated_large_quantifier.fol,fo_and_split_16,baseline,valid,True,10,2,0,5,6,0.318
+datasets/generated_large_quantifier.fol,fo_and_split_16,improved,valid,True,10,2,0,5,6,0.321
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_16,baseline,not proved,False,4,0,1,3,3,0.071
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_16,improved,not proved,False,6,0,2,3,4,0.094
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_16,baseline,not proved,False,12,0,1,11,9,0.711
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_16,improved,step/depth limit,False,101,0,37,18,69,13.070
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_17,baseline,not proved,False,11,0,1,10,8,0.524
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_17,improved,valid,True,6,1,1,4,2,0.158
+datasets/generated_large_quantifier.fol,fo_exists_weaken_17,baseline,valid,True,5,1,0,4,2,0.146
+datasets/generated_large_quantifier.fol,fo_exists_weaken_17,improved,valid,True,5,1,0,4,2,0.148
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_17,baseline,not proved,False,12,0,1,11,10,0.658
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_17,improved,step/depth limit,False,101,0,47,11,36,6.859
+datasets/generated_large_quantifier.fol,fo_and_split_17,baseline,valid,True,10,2,0,5,6,0.331
+datasets/generated_large_quantifier.fol,fo_and_split_17,improved,valid,True,10,2,0,5,6,0.374
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_17,baseline,not proved,False,4,0,1,3,3,0.072
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_17,improved,not proved,False,6,0,2,3,4,0.117
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_17,baseline,not proved,False,12,0,1,11,9,0.756
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_17,improved,step/depth limit,False,101,0,37,18,69,14.278
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_18,baseline,not proved,False,11,0,1,10,8,0.556
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_18,improved,valid,True,6,1,1,4,2,0.168
+datasets/generated_large_quantifier.fol,fo_exists_weaken_18,baseline,valid,True,5,1,0,4,2,0.147
+datasets/generated_large_quantifier.fol,fo_exists_weaken_18,improved,valid,True,5,1,0,4,2,0.165
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_18,baseline,not proved,False,12,0,1,11,10,0.677
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_18,improved,step/depth limit,False,101,0,47,11,36,7.683
+datasets/generated_large_quantifier.fol,fo_and_split_18,baseline,valid,True,10,2,0,5,6,0.399
+datasets/generated_large_quantifier.fol,fo_and_split_18,improved,valid,True,10,2,0,5,6,0.321
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_18,baseline,not proved,False,4,0,1,3,3,0.070
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_18,improved,not proved,False,6,0,2,3,4,0.094
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_18,baseline,not proved,False,12,0,1,11,9,0.749
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_18,improved,step/depth limit,False,101,0,37,18,69,13.092
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_19,baseline,not proved,False,11,0,1,10,8,0.829
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_19,improved,valid,True,6,1,1,4,2,0.316
+datasets/generated_large_quantifier.fol,fo_exists_weaken_19,baseline,valid,True,5,1,0,4,2,0.302
+datasets/generated_large_quantifier.fol,fo_exists_weaken_19,improved,valid,True,5,1,0,4,2,0.199
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_19,baseline,not proved,False,12,0,1,11,10,0.973
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_19,improved,step/depth limit,False,101,0,47,11,36,6.428
+datasets/generated_large_quantifier.fol,fo_and_split_19,baseline,valid,True,10,2,0,5,6,0.319
+datasets/generated_large_quantifier.fol,fo_and_split_19,improved,valid,True,10,2,0,5,6,0.320
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_19,baseline,not proved,False,4,0,1,3,3,0.097
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_19,improved,not proved,False,6,0,2,3,4,0.095
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_19,baseline,not proved,False,12,0,1,11,9,1.121
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_19,improved,step/depth limit,False,101,0,37,18,69,11.116
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_20,baseline,not proved,False,11,0,1,10,8,0.537
+datasets/generated_large_quantifier.fol,fo_forall_to_exists_20,improved,valid,True,6,1,1,4,2,0.249
+datasets/generated_large_quantifier.fol,fo_exists_weaken_20,baseline,valid,True,5,1,0,4,2,0.206
+datasets/generated_large_quantifier.fol,fo_exists_weaken_20,improved,valid,True,5,1,0,4,2,0.225
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_20,baseline,not proved,False,12,0,1,11,10,0.971
+datasets/generated_large_quantifier.fol,fo_exists_forall_to_forall_exists_20,improved,step/depth limit,False,101,0,47,11,36,6.772
+datasets/generated_large_quantifier.fol,fo_and_split_20,baseline,valid,True,10,2,0,5,6,0.533
+datasets/generated_large_quantifier.fol,fo_and_split_20,improved,valid,True,10,2,0,5,6,0.476
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_20,baseline,not proved,False,4,0,1,3,3,0.100
+datasets/generated_large_quantifier.fol,fo_invalid_exists_to_forall_20,improved,not proved,False,6,0,2,3,4,0.107
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_20,baseline,not proved,False,12,0,1,11,9,0.724
+datasets/generated_large_quantifier.fol,fo_invalid_exists_swap_20,improved,step/depth limit,False,101,0,37,18,69,9.881

@@ -1,0 +1,11 @@
+dataset,formula,strategy,status,valid,steps,closed_branches,open_branches,max_depth,fresh_terms,time_ms
+datasets/textbook_examples.fol,hou_lemma_25,baseline,valid,True,6,1,0,5,3,0.287
+datasets/textbook_examples.fol,hou_lemma_25,improved,valid,True,6,1,0,5,3,0.195
+datasets/textbook_examples.fol,hou_lemma_27,baseline,not proved,False,12,0,1,11,10,0.755
+datasets/textbook_examples.fol,hou_lemma_27,improved,step/depth limit,False,101,0,47,11,36,6.405
+datasets/textbook_examples.fol,invalid_quantifier_swap,baseline,step/depth limit,False,62,0,0,61,38,11.187
+datasets/textbook_examples.fol,invalid_quantifier_swap,improved,step/depth limit,False,101,0,32,15,78,9.748
+datasets/textbook_examples.fol,universal_distribution,baseline,not proved,False,14,0,1,13,12,0.902
+datasets/textbook_examples.fol,universal_distribution,improved,step/depth limit,False,101,25,30,15,20,5.289
+datasets/textbook_examples.fol,existential_weaken,baseline,valid,True,5,1,0,4,2,0.159
+datasets/textbook_examples.fol,existential_weaken,improved,valid,True,5,1,0,4,2,0.152

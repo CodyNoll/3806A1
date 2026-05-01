@@ -1,0 +1,121 @@
+# Generated benchmark file. One named formula per line.
+prop_identity_01: A1 -> A1
+prop_excluded_middle_01: A1 or not A1
+prop_and_comm_01: (A1 and B1) -> (B1 and A1)
+prop_or_comm_01: (A1 or B1) -> (B1 or A1)
+prop_invalid_strengthen_01: A1 -> (A1 and B1)
+prop_invalid_or_to_and_01: (A1 or B1) -> (A1 and B1)
+prop_identity_02: A2 -> A2
+prop_excluded_middle_02: A2 or not A2
+prop_and_comm_02: (A2 and B2) -> (B2 and A2)
+prop_or_comm_02: (A2 or B2) -> (B2 or A2)
+prop_invalid_strengthen_02: A2 -> (A2 and B2)
+prop_invalid_or_to_and_02: (A2 or B2) -> (A2 and B2)
+prop_identity_03: A3 -> A3
+prop_excluded_middle_03: A3 or not A3
+prop_and_comm_03: (A3 and B3) -> (B3 and A3)
+prop_or_comm_03: (A3 or B3) -> (B3 or A3)
+prop_invalid_strengthen_03: A3 -> (A3 and B3)
+prop_invalid_or_to_and_03: (A3 or B3) -> (A3 and B3)
+prop_identity_04: A4 -> A4
+prop_excluded_middle_04: A4 or not A4
+prop_and_comm_04: (A4 and B4) -> (B4 and A4)
+prop_or_comm_04: (A4 or B4) -> (B4 or A4)
+prop_invalid_strengthen_04: A4 -> (A4 and B4)
+prop_invalid_or_to_and_04: (A4 or B4) -> (A4 and B4)
+prop_identity_05: A5 -> A5
+prop_excluded_middle_05: A5 or not A5
+prop_and_comm_05: (A5 and B5) -> (B5 and A5)
+prop_or_comm_05: (A5 or B5) -> (B5 or A5)
+prop_invalid_strengthen_05: A5 -> (A5 and B5)
+prop_invalid_or_to_and_05: (A5 or B5) -> (A5 and B5)
+prop_identity_06: A6 -> A6
+prop_excluded_middle_06: A6 or not A6
+prop_and_comm_06: (A6 and B6) -> (B6 and A6)
+prop_or_comm_06: (A6 or B6) -> (B6 or A6)
+prop_invalid_strengthen_06: A6 -> (A6 and B6)
+prop_invalid_or_to_and_06: (A6 or B6) -> (A6 and B6)
+prop_identity_07: A7 -> A7
+prop_excluded_middle_07: A7 or not A7
+prop_and_comm_07: (A7 and B7) -> (B7 and A7)
+prop_or_comm_07: (A7 or B7) -> (B7 or A7)
+prop_invalid_strengthen_07: A7 -> (A7 and B7)
+prop_invalid_or_to_and_07: (A7 or B7) -> (A7 and B7)
+prop_identity_08: A8 -> A8
+prop_excluded_middle_08: A8 or not A8
+prop_and_comm_08: (A8 and B8) -> (B8 and A8)
+prop_or_comm_08: (A8 or B8) -> (B8 or A8)
+prop_invalid_strengthen_08: A8 -> (A8 and B8)
+prop_invalid_or_to_and_08: (A8 or B8) -> (A8 and B8)
+prop_identity_09: A9 -> A9
+prop_excluded_middle_09: A9 or not A9
+prop_and_comm_09: (A9 and B9) -> (B9 and A9)
+prop_or_comm_09: (A9 or B9) -> (B9 or A9)
+prop_invalid_strengthen_09: A9 -> (A9 and B9)
+prop_invalid_or_to_and_09: (A9 or B9) -> (A9 and B9)
+prop_identity_10: A10 -> A10
+prop_excluded_middle_10: A10 or not A10
+prop_and_comm_10: (A10 and B10) -> (B10 and A10)
+prop_or_comm_10: (A10 or B10) -> (B10 or A10)
+prop_invalid_strengthen_10: A10 -> (A10 and B10)
+prop_invalid_or_to_and_10: (A10 or B10) -> (A10 and B10)
+prop_identity_11: A11 -> A11
+prop_excluded_middle_11: A11 or not A11
+prop_and_comm_11: (A11 and B11) -> (B11 and A11)
+prop_or_comm_11: (A11 or B11) -> (B11 or A11)
+prop_invalid_strengthen_11: A11 -> (A11 and B11)
+prop_invalid_or_to_and_11: (A11 or B11) -> (A11 and B11)
+prop_identity_12: A12 -> A12
+prop_excluded_middle_12: A12 or not A12
+prop_and_comm_12: (A12 and B12) -> (B12 and A12)
+prop_or_comm_12: (A12 or B12) -> (B12 or A12)
+prop_invalid_strengthen_12: A12 -> (A12 and B12)
+prop_invalid_or_to_and_12: (A12 or B12) -> (A12 and B12)
+prop_identity_13: A13 -> A13
+prop_excluded_middle_13: A13 or not A13
+prop_and_comm_13: (A13 and B13) -> (B13 and A13)
+prop_or_comm_13: (A13 or B13) -> (B13 or A13)
+prop_invalid_strengthen_13: A13 -> (A13 and B13)
+prop_invalid_or_to_and_13: (A13 or B13) -> (A13 and B13)
+prop_identity_14: A14 -> A14
+prop_excluded_middle_14: A14 or not A14
+prop_and_comm_14: (A14 and B14) -> (B14 and A14)
+prop_or_comm_14: (A14 or B14) -> (B14 or A14)
+prop_invalid_strengthen_14: A14 -> (A14 and B14)
+prop_invalid_or_to_and_14: (A14 or B14) -> (A14 and B14)
+prop_identity_15: A15 -> A15
+prop_excluded_middle_15: A15 or not A15
+prop_and_comm_15: (A15 and B15) -> (B15 and A15)
+prop_or_comm_15: (A15 or B15) -> (B15 or A15)
+prop_invalid_strengthen_15: A15 -> (A15 and B15)
+prop_invalid_or_to_and_15: (A15 or B15) -> (A15 and B15)
+prop_identity_16: A16 -> A16
+prop_excluded_middle_16: A16 or not A16
+prop_and_comm_16: (A16 and B16) -> (B16 and A16)
+prop_or_comm_16: (A16 or B16) -> (B16 or A16)
+prop_invalid_strengthen_16: A16 -> (A16 and B16)
+prop_invalid_or_to_and_16: (A16 or B16) -> (A16 and B16)
+prop_identity_17: A17 -> A17
+prop_excluded_middle_17: A17 or not A17
+prop_and_comm_17: (A17 and B17) -> (B17 and A17)
+prop_or_comm_17: (A17 or B17) -> (B17 or A17)
+prop_invalid_strengthen_17: A17 -> (A17 and B17)
+prop_invalid_or_to_and_17: (A17 or B17) -> (A17 and B17)
+prop_identity_18: A18 -> A18
+prop_excluded_middle_18: A18 or not A18
+prop_and_comm_18: (A18 and B18) -> (B18 and A18)
+prop_or_comm_18: (A18 or B18) -> (B18 or A18)
+prop_invalid_strengthen_18: A18 -> (A18 and B18)
+prop_invalid_or_to_and_18: (A18 or B18) -> (A18 and B18)
+prop_identity_19: A19 -> A19
+prop_excluded_middle_19: A19 or not A19
+prop_and_comm_19: (A19 and B19) -> (B19 and A19)
+prop_or_comm_19: (A19 or B19) -> (B19 or A19)
+prop_invalid_strengthen_19: A19 -> (A19 and B19)
+prop_invalid_or_to_and_19: (A19 or B19) -> (A19 and B19)
+prop_identity_20: A20 -> A20
+prop_excluded_middle_20: A20 or not A20
+prop_and_comm_20: (A20 and B20) -> (B20 and A20)
+prop_or_comm_20: (A20 or B20) -> (B20 or A20)
+prop_invalid_strengthen_20: A20 -> (A20 and B20)
+prop_invalid_or_to_and_20: (A20 or B20) -> (A20 and B20)

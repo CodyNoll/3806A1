@@ -1,0 +1,13 @@
+dataset,strategy,formulas,valid,not_proved,limits,avg_steps,avg_fresh_terms,avg_time_ms
+generated_balanced,baseline,8,5,3,0,5.38,1.38,0.191
+generated_balanced,improved,8,6,2,0,5.38,0.75,0.104
+generated_large_medium,baseline,120,80,40,0,8.00,0.00,0.099
+generated_large_medium,improved,120,80,40,0,9.83,0.00,0.120
+generated_large_propositional,baseline,120,80,40,0,4.00,0.00,0.041
+generated_large_propositional,improved,120,80,40,0,4.50,0.00,0.046
+generated_large_quantifier,baseline,120,40,80,0,9.00,6.33,0.480
+generated_large_quantifier,improved,120,60,20,40,38.17,19.83,3.166
+quantifier_stress,baseline,5,1,4,0,11.80,10.80,1.226
+quantifier_stress,improved,5,1,0,4,26.40,11.80,2.433
+textbook_examples,baseline,5,2,2,1,19.80,13.00,2.658
+textbook_examples,improved,5,2,0,3,62.80,27.80,4.358

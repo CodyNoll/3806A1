@@ -1,0 +1,17 @@
+dataset,formula,strategy,status,valid,steps,closed_branches,open_branches,max_depth,fresh_terms,time_ms
+datasets/generated_balanced.fol,imp_identity,baseline,valid,True,2,1,0,1,0,0.082
+datasets/generated_balanced.fol,imp_identity,improved,valid,True,2,1,0,1,0,0.048
+datasets/generated_balanced.fol,excluded_middle,baseline,valid,True,3,1,0,2,0,0.059
+datasets/generated_balanced.fol,excluded_middle,improved,valid,True,3,1,0,2,0,0.050
+datasets/generated_balanced.fol,modus_style,baseline,valid,True,8,3,0,5,0,0.163
+datasets/generated_balanced.fol,modus_style,improved,valid,True,8,3,0,5,0,0.184
+datasets/generated_balanced.fol,invalid_distrib_reverse,baseline,not proved,False,5,1,1,3,0,0.103
+datasets/generated_balanced.fol,invalid_distrib_reverse,improved,not proved,False,8,2,2,3,0,0.146
+datasets/generated_balanced.fol,and_comm,baseline,valid,True,5,2,0,3,0,0.062
+datasets/generated_balanced.fol,and_comm,improved,valid,True,5,2,0,3,0,0.058
+datasets/generated_balanced.fol,or_comm,baseline,valid,True,5,2,0,3,0,0.060
+datasets/generated_balanced.fol,or_comm,improved,valid,True,5,2,0,3,0,0.055
+datasets/generated_balanced.fol,forall_to_exists,baseline,not proved,False,11,0,1,10,8,0.923
+datasets/generated_balanced.fol,forall_to_exists,improved,valid,True,6,1,1,4,2,0.197
+datasets/generated_balanced.fol,exists_to_forall_invalid,baseline,not proved,False,4,0,1,3,3,0.076
+datasets/generated_balanced.fol,exists_to_forall_invalid,improved,not proved,False,6,0,2,3,4,0.098

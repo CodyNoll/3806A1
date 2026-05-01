@@ -1,0 +1,6 @@
+# Hand-designed stress cases to exercise ∀L and ∃R repetition and branch growth.
+chain_1: (forall x. (P(x) -> Q(x))) -> ((forall x. P(x)) -> (exists x. Q(x)))
+chain_2: (forall x. (P(x) -> Q(x))) -> ((forall x. (Q(x) -> S(x))) -> ((forall x. P(x)) -> (exists x. S(x))))
+branch_quant: (forall x. (P(x) or Q(x))) -> ((exists x. P(x)) or (exists x. Q(x)))
+invalid_branch_quant: (forall x. (P(x) or Q(x))) -> ((forall x. P(x)) or (forall x. Q(x)))
+nested_exists: (exists x. (P(x) and Q(x))) -> ((exists x. P(x)) and (exists x. Q(x)))

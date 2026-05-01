@@ -1,0 +1,11 @@
+dataset,formula,strategy,status,valid,steps,closed_branches,open_branches,max_depth,fresh_terms,time_ms
+datasets/quantifier_stress.fol,chain_1,baseline,not proved,False,12,0,1,11,13,1.830
+datasets/quantifier_stress.fol,chain_1,improved,step/depth limit,False,31,2,10,13,13,3.244
+datasets/quantifier_stress.fol,chain_2,baseline,not proved,False,13,0,1,12,19,2.342
+datasets/quantifier_stress.fol,chain_2,improved,step/depth limit,False,31,1,8,15,19,4.446
+datasets/quantifier_stress.fol,branch_quant,baseline,not proved,False,13,0,1,12,13,1.083
+datasets/quantifier_stress.fol,branch_quant,improved,step/depth limit,False,31,2,10,13,13,2.846
+datasets/quantifier_stress.fol,invalid_branch_quant,baseline,not proved,False,13,0,1,12,8,0.665
+datasets/quantifier_stress.fol,invalid_branch_quant,improved,step/depth limit,False,31,0,8,12,13,1.424
+datasets/quantifier_stress.fol,nested_exists,baseline,valid,True,8,2,0,5,1,0.211
+datasets/quantifier_stress.fol,nested_exists,improved,valid,True,8,2,0,5,1,0.203

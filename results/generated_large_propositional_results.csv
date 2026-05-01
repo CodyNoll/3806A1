@@ -1,0 +1,241 @@
+dataset,formula,strategy,status,valid,steps,closed_branches,open_branches,max_depth,fresh_terms,time_ms
+datasets/generated_large_propositional.fol,prop_identity_01,baseline,valid,True,2,1,0,1,0,0.067
+datasets/generated_large_propositional.fol,prop_identity_01,improved,valid,True,2,1,0,1,0,0.035
+datasets/generated_large_propositional.fol,prop_excluded_middle_01,baseline,valid,True,3,1,0,2,0,0.065
+datasets/generated_large_propositional.fol,prop_excluded_middle_01,improved,valid,True,3,1,0,2,0,0.034
+datasets/generated_large_propositional.fol,prop_and_comm_01,baseline,valid,True,5,2,0,3,0,0.073
+datasets/generated_large_propositional.fol,prop_and_comm_01,improved,valid,True,5,2,0,3,0,0.061
+datasets/generated_large_propositional.fol,prop_or_comm_01,baseline,valid,True,5,2,0,3,0,0.049
+datasets/generated_large_propositional.fol,prop_or_comm_01,improved,valid,True,5,2,0,3,0,0.048
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_01,baseline,not proved,False,4,1,1,2,0,0.034
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_01,improved,not proved,False,4,1,1,2,0,0.034
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_01,baseline,not proved,False,5,1,1,3,0,0.077
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_01,improved,not proved,False,8,2,2,3,0,0.104
+datasets/generated_large_propositional.fol,prop_identity_02,baseline,valid,True,2,1,0,1,0,0.021
+datasets/generated_large_propositional.fol,prop_identity_02,improved,valid,True,2,1,0,1,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_02,baseline,valid,True,3,1,0,2,0,0.040
+datasets/generated_large_propositional.fol,prop_excluded_middle_02,improved,valid,True,3,1,0,2,0,0.036
+datasets/generated_large_propositional.fol,prop_and_comm_02,baseline,valid,True,5,2,0,3,0,0.073
+datasets/generated_large_propositional.fol,prop_and_comm_02,improved,valid,True,5,2,0,3,0,0.050
+datasets/generated_large_propositional.fol,prop_or_comm_02,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_or_comm_02,improved,valid,True,5,2,0,3,0,0.112
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_02,baseline,not proved,False,4,1,1,2,0,0.043
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_02,improved,not proved,False,4,1,1,2,0,0.046
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_02,baseline,not proved,False,5,1,1,3,0,0.050
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_02,improved,not proved,False,8,2,2,3,0,0.090
+datasets/generated_large_propositional.fol,prop_identity_03,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_03,improved,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_excluded_middle_03,baseline,valid,True,3,1,0,2,0,0.030
+datasets/generated_large_propositional.fol,prop_excluded_middle_03,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_03,baseline,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_and_comm_03,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_03,baseline,valid,True,5,2,0,3,0,0.058
+datasets/generated_large_propositional.fol,prop_or_comm_03,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_03,baseline,not proved,False,4,1,1,2,0,0.031
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_03,improved,not proved,False,4,1,1,2,0,0.032
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_03,baseline,not proved,False,5,1,1,3,0,0.048
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_03,improved,not proved,False,8,2,2,3,0,0.068
+datasets/generated_large_propositional.fol,prop_identity_04,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_04,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_04,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_04,improved,valid,True,3,1,0,2,0,0.034
+datasets/generated_large_propositional.fol,prop_and_comm_04,baseline,valid,True,5,2,0,3,0,0.048
+datasets/generated_large_propositional.fol,prop_and_comm_04,improved,valid,True,5,2,0,3,0,0.056
+datasets/generated_large_propositional.fol,prop_or_comm_04,baseline,valid,True,5,2,0,3,0,0.055
+datasets/generated_large_propositional.fol,prop_or_comm_04,improved,valid,True,5,2,0,3,0,0.058
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_04,baseline,not proved,False,4,1,1,2,0,0.042
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_04,improved,not proved,False,4,1,1,2,0,0.045
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_04,baseline,not proved,False,5,1,1,3,0,0.058
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_04,improved,not proved,False,8,2,2,3,0,0.104
+datasets/generated_large_propositional.fol,prop_identity_05,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_05,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_05,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_05,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_05,baseline,valid,True,5,2,0,3,0,0.049
+datasets/generated_large_propositional.fol,prop_and_comm_05,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_05,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_or_comm_05,improved,valid,True,5,2,0,3,0,0.050
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_05,baseline,not proved,False,4,1,1,2,0,0.042
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_05,improved,not proved,False,4,1,1,2,0,0.032
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_05,baseline,not proved,False,5,1,1,3,0,0.056
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_05,improved,not proved,False,8,2,2,3,0,0.094
+datasets/generated_large_propositional.fol,prop_identity_06,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_06,improved,valid,True,2,1,0,1,0,0.020
+datasets/generated_large_propositional.fol,prop_excluded_middle_06,baseline,valid,True,3,1,0,2,0,0.026
+datasets/generated_large_propositional.fol,prop_excluded_middle_06,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_06,baseline,valid,True,5,2,0,3,0,0.050
+datasets/generated_large_propositional.fol,prop_and_comm_06,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_06,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_or_comm_06,improved,valid,True,5,2,0,3,0,0.065
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_06,baseline,not proved,False,4,1,1,2,0,0.036
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_06,improved,not proved,False,4,1,1,2,0,0.044
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_06,baseline,not proved,False,5,1,1,3,0,0.069
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_06,improved,not proved,False,8,2,2,3,0,0.089
+datasets/generated_large_propositional.fol,prop_identity_07,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_07,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_07,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_07,improved,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_and_comm_07,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_and_comm_07,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_07,baseline,valid,True,5,2,0,3,0,0.043
+datasets/generated_large_propositional.fol,prop_or_comm_07,improved,valid,True,5,2,0,3,0,0.058
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_07,baseline,not proved,False,4,1,1,2,0,0.031
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_07,improved,not proved,False,4,1,1,2,0,0.032
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_07,baseline,not proved,False,5,1,1,3,0,0.048
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_07,improved,not proved,False,8,2,2,3,0,0.087
+datasets/generated_large_propositional.fol,prop_identity_08,baseline,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_identity_08,improved,valid,True,2,1,0,1,0,0.019
+datasets/generated_large_propositional.fol,prop_excluded_middle_08,baseline,valid,True,3,1,0,2,0,0.027
+datasets/generated_large_propositional.fol,prop_excluded_middle_08,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_08,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_and_comm_08,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_or_comm_08,baseline,valid,True,5,2,0,3,0,0.042
+datasets/generated_large_propositional.fol,prop_or_comm_08,improved,valid,True,5,2,0,3,0,0.049
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_08,baseline,not proved,False,4,1,1,2,0,0.051
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_08,improved,not proved,False,4,1,1,2,0,0.044
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_08,baseline,not proved,False,5,1,1,3,0,0.064
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_08,improved,not proved,False,8,2,2,3,0,0.086
+datasets/generated_large_propositional.fol,prop_identity_09,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_09,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_09,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_09,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_09,baseline,valid,True,5,2,0,3,0,0.049
+datasets/generated_large_propositional.fol,prop_and_comm_09,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_or_comm_09,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_or_comm_09,improved,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_09,baseline,not proved,False,4,1,1,2,0,0.048
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_09,improved,not proved,False,4,1,1,2,0,0.035
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_09,baseline,not proved,False,5,1,1,3,0,0.049
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_09,improved,not proved,False,8,2,2,3,0,0.111
+datasets/generated_large_propositional.fol,prop_identity_10,baseline,valid,True,2,1,0,1,0,0.018
+datasets/generated_large_propositional.fol,prop_identity_10,improved,valid,True,2,1,0,1,0,0.022
+datasets/generated_large_propositional.fol,prop_excluded_middle_10,baseline,valid,True,3,1,0,2,0,0.024
+datasets/generated_large_propositional.fol,prop_excluded_middle_10,improved,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_and_comm_10,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_and_comm_10,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_10,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_or_comm_10,improved,valid,True,5,2,0,3,0,0.062
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_10,baseline,not proved,False,4,1,1,2,0,0.041
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_10,improved,not proved,False,4,1,1,2,0,0.034
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_10,baseline,not proved,False,5,1,1,3,0,0.064
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_10,improved,not proved,False,8,2,2,3,0,0.115
+datasets/generated_large_propositional.fol,prop_identity_11,baseline,valid,True,2,1,0,1,0,0.023
+datasets/generated_large_propositional.fol,prop_identity_11,improved,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_excluded_middle_11,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_11,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_11,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_and_comm_11,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_or_comm_11,baseline,valid,True,5,2,0,3,0,0.050
+datasets/generated_large_propositional.fol,prop_or_comm_11,improved,valid,True,5,2,0,3,0,0.059
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_11,baseline,not proved,False,4,1,1,2,0,0.031
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_11,improved,not proved,False,4,1,1,2,0,0.032
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_11,baseline,not proved,False,5,1,1,3,0,0.076
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_11,improved,not proved,False,8,2,2,3,0,0.070
+datasets/generated_large_propositional.fol,prop_identity_12,baseline,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_identity_12,improved,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_excluded_middle_12,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_12,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_12,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_and_comm_12,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_or_comm_12,baseline,valid,True,5,2,0,3,0,0.043
+datasets/generated_large_propositional.fol,prop_or_comm_12,improved,valid,True,5,2,0,3,0,0.064
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_12,baseline,not proved,False,4,1,1,2,0,0.049
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_12,improved,not proved,False,4,1,1,2,0,0.033
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_12,baseline,not proved,False,5,1,1,3,0,0.073
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_12,improved,not proved,False,8,2,2,3,0,0.069
+datasets/generated_large_propositional.fol,prop_identity_13,baseline,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_identity_13,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_13,baseline,valid,True,3,1,0,2,0,0.027
+datasets/generated_large_propositional.fol,prop_excluded_middle_13,improved,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_and_comm_13,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_and_comm_13,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_or_comm_13,baseline,valid,True,5,2,0,3,0,0.043
+datasets/generated_large_propositional.fol,prop_or_comm_13,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_13,baseline,not proved,False,4,1,1,2,0,0.030
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_13,improved,not proved,False,4,1,1,2,0,0.031
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_13,baseline,not proved,False,5,1,1,3,0,0.049
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_13,improved,not proved,False,8,2,2,3,0,0.100
+datasets/generated_large_propositional.fol,prop_identity_14,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_14,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_14,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_14,improved,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_and_comm_14,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_and_comm_14,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_or_comm_14,baseline,valid,True,5,2,0,3,0,0.042
+datasets/generated_large_propositional.fol,prop_or_comm_14,improved,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_14,baseline,not proved,False,4,1,1,2,0,0.043
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_14,improved,not proved,False,4,1,1,2,0,0.050
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_14,baseline,not proved,False,5,1,1,3,0,0.058
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_14,improved,not proved,False,8,2,2,3,0,0.091
+datasets/generated_large_propositional.fol,prop_identity_15,baseline,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_identity_15,improved,valid,True,2,1,0,1,0,0.017
+datasets/generated_large_propositional.fol,prop_excluded_middle_15,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_15,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_15,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_and_comm_15,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_15,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_or_comm_15,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_15,baseline,not proved,False,4,1,1,2,0,0.030
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_15,improved,not proved,False,4,1,1,2,0,0.031
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_15,baseline,not proved,False,5,1,1,3,0,0.064
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_15,improved,not proved,False,8,2,2,3,0,0.091
+datasets/generated_large_propositional.fol,prop_identity_16,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_16,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_16,baseline,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_excluded_middle_16,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_16,baseline,valid,True,5,2,0,3,0,0.054
+datasets/generated_large_propositional.fol,prop_and_comm_16,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_16,baseline,valid,True,5,2,0,3,0,0.043
+datasets/generated_large_propositional.fol,prop_or_comm_16,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_16,baseline,not proved,False,4,1,1,2,0,0.031
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_16,improved,not proved,False,4,1,1,2,0,0.043
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_16,baseline,not proved,False,5,1,1,3,0,0.080
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_16,improved,not proved,False,8,2,2,3,0,0.079
+datasets/generated_large_propositional.fol,prop_identity_17,baseline,valid,True,2,1,0,1,0,0.020
+datasets/generated_large_propositional.fol,prop_identity_17,improved,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_excluded_middle_17,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_17,improved,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_and_comm_17,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_and_comm_17,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_17,baseline,valid,True,5,2,0,3,0,0.069
+datasets/generated_large_propositional.fol,prop_or_comm_17,improved,valid,True,5,2,0,3,0,0.054
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_17,baseline,not proved,False,4,1,1,2,0,0.057
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_17,improved,not proved,False,4,1,1,2,0,0.058
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_17,baseline,not proved,False,5,1,1,3,0,0.072
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_17,improved,not proved,False,8,2,2,3,0,0.075
+datasets/generated_large_propositional.fol,prop_identity_18,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_18,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_18,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_18,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_18,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_and_comm_18,improved,valid,True,5,2,0,3,0,0.047
+datasets/generated_large_propositional.fol,prop_or_comm_18,baseline,valid,True,5,2,0,3,0,0.055
+datasets/generated_large_propositional.fol,prop_or_comm_18,improved,valid,True,5,2,0,3,0,0.060
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_18,baseline,not proved,False,4,1,1,2,0,0.046
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_18,improved,not proved,False,4,1,1,2,0,0.050
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_18,baseline,not proved,False,5,1,1,3,0,0.054
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_18,improved,not proved,False,8,2,2,3,0,0.083
+datasets/generated_large_propositional.fol,prop_identity_19,baseline,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_identity_19,improved,valid,True,2,1,0,1,0,0.012
+datasets/generated_large_propositional.fol,prop_excluded_middle_19,baseline,valid,True,3,1,0,2,0,0.022
+datasets/generated_large_propositional.fol,prop_excluded_middle_19,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_19,baseline,valid,True,5,2,0,3,0,0.044
+datasets/generated_large_propositional.fol,prop_and_comm_19,improved,valid,True,5,2,0,3,0,0.065
+datasets/generated_large_propositional.fol,prop_or_comm_19,baseline,valid,True,5,2,0,3,0,0.043
+datasets/generated_large_propositional.fol,prop_or_comm_19,improved,valid,True,5,2,0,3,0,0.046
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_19,baseline,not proved,False,4,1,1,2,0,0.063
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_19,improved,not proved,False,4,1,1,2,0,0.033
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_19,baseline,not proved,False,5,1,1,3,0,0.068
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_19,improved,not proved,False,8,2,2,3,0,0.103
+datasets/generated_large_propositional.fol,prop_identity_20,baseline,valid,True,2,1,0,1,0,0.028
+datasets/generated_large_propositional.fol,prop_identity_20,improved,valid,True,2,1,0,1,0,0.013
+datasets/generated_large_propositional.fol,prop_excluded_middle_20,baseline,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_excluded_middle_20,improved,valid,True,3,1,0,2,0,0.023
+datasets/generated_large_propositional.fol,prop_and_comm_20,baseline,valid,True,5,2,0,3,0,0.045
+datasets/generated_large_propositional.fol,prop_and_comm_20,improved,valid,True,5,2,0,3,0,0.054
+datasets/generated_large_propositional.fol,prop_or_comm_20,baseline,valid,True,5,2,0,3,0,0.058
+datasets/generated_large_propositional.fol,prop_or_comm_20,improved,valid,True,5,2,0,3,0,0.091
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_20,baseline,not proved,False,4,1,1,2,0,0.049
+datasets/generated_large_propositional.fol,prop_invalid_strengthen_20,improved,not proved,False,4,1,1,2,0,0.053
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_20,baseline,not proved,False,5,1,1,3,0,0.049
+datasets/generated_large_propositional.fol,prop_invalid_or_to_and_20,improved,not proved,False,8,2,2,3,0,0.070

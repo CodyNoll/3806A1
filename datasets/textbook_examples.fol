@@ -1,0 +1,6 @@
+# Formulae drawn from, or closely based on, Hou textbook examples near Algorithm 2.
+hou_lemma_25: (not (forall x. R(x))) -> (exists x. not R(x))
+hou_lemma_27: (exists x. forall y. R(x,y)) -> (forall y. exists x. R(x,y))
+invalid_quantifier_swap: (forall y. exists x. R(x,y)) -> (exists x. forall y. R(x,y))
+universal_distribution: (forall x. (P(x) -> Q(x))) -> ((forall x. P(x)) -> (forall x. Q(x)))
+existential_weaken: (exists x. P(x)) -> (exists x. (P(x) or Q(x)))

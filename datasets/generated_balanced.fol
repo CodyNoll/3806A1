@@ -1,0 +1,9 @@
+# Balanced generated set: propositional and shallow first-order cases.
+imp_identity: A -> A
+excluded_middle: A or not A
+modus_style: (A -> B) -> ((not A -> B) -> B)
+invalid_distrib_reverse: (A or B) -> (A and B)
+and_comm: (A and B) -> (B and A)
+or_comm: (A or B) -> (B or A)
+forall_to_exists: (forall x. P(x)) -> (exists x. P(x))
+exists_to_forall_invalid: (exists x. P(x)) -> (forall x. P(x))

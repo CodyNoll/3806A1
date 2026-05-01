@@ -1,0 +1,241 @@
+dataset,formula,strategy,status,valid,steps,closed_branches,open_branches,max_depth,fresh_terms,time_ms
+datasets/generated_large_medium.fol,medium_transitivity_01,baseline,valid,True,8,3,0,5,0,0.192
+datasets/generated_large_medium.fol,medium_transitivity_01,improved,valid,True,8,3,0,5,0,0.132
+datasets/generated_large_medium.fol,medium_distrib_valid_01,baseline,valid,True,10,4,0,6,0,0.147
+datasets/generated_large_medium.fol,medium_distrib_valid_01,improved,valid,True,10,4,0,6,0,0.166
+datasets/generated_large_medium.fol,medium_demorgan_valid_01,baseline,valid,True,8,2,0,5,0,0.114
+datasets/generated_large_medium.fol,medium_demorgan_valid_01,improved,valid,True,8,2,0,5,0,0.109
+datasets/generated_large_medium.fol,medium_case_valid_01,baseline,valid,True,10,4,0,6,0,0.128
+datasets/generated_large_medium.fol,medium_case_valid_01,improved,valid,True,10,4,0,6,0,0.139
+datasets/generated_large_medium.fol,medium_invalid_converse_01,baseline,not proved,False,4,0,1,3,0,0.054
+datasets/generated_large_medium.fol,medium_invalid_converse_01,improved,not proved,False,6,0,2,3,0,0.069
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_01,baseline,not proved,False,8,1,1,5,0,0.101
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_01,improved,not proved,False,17,2,5,5,0,0.172
+datasets/generated_large_medium.fol,medium_transitivity_02,baseline,valid,True,8,3,0,5,0,0.093
+datasets/generated_large_medium.fol,medium_transitivity_02,improved,valid,True,8,3,0,5,0,0.129
+datasets/generated_large_medium.fol,medium_distrib_valid_02,baseline,valid,True,10,4,0,6,0,0.123
+datasets/generated_large_medium.fol,medium_distrib_valid_02,improved,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_demorgan_valid_02,baseline,valid,True,8,2,0,5,0,0.097
+datasets/generated_large_medium.fol,medium_demorgan_valid_02,improved,valid,True,8,2,0,5,0,0.102
+datasets/generated_large_medium.fol,medium_case_valid_02,baseline,valid,True,10,4,0,6,0,0.123
+datasets/generated_large_medium.fol,medium_case_valid_02,improved,valid,True,10,4,0,6,0,0.148
+datasets/generated_large_medium.fol,medium_invalid_converse_02,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_02,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_02,baseline,not proved,False,8,1,1,5,0,0.111
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_02,improved,not proved,False,17,2,5,5,0,0.191
+datasets/generated_large_medium.fol,medium_transitivity_03,baseline,valid,True,8,3,0,5,0,0.100
+datasets/generated_large_medium.fol,medium_transitivity_03,improved,valid,True,8,3,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_distrib_valid_03,baseline,valid,True,10,4,0,6,0,0.122
+datasets/generated_large_medium.fol,medium_distrib_valid_03,improved,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_demorgan_valid_03,baseline,valid,True,8,2,0,5,0,0.095
+datasets/generated_large_medium.fol,medium_demorgan_valid_03,improved,valid,True,8,2,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_case_valid_03,baseline,valid,True,10,4,0,6,0,0.123
+datasets/generated_large_medium.fol,medium_case_valid_03,improved,valid,True,10,4,0,6,0,0.155
+datasets/generated_large_medium.fol,medium_invalid_converse_03,baseline,not proved,False,4,0,1,3,0,0.051
+datasets/generated_large_medium.fol,medium_invalid_converse_03,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_03,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_03,improved,not proved,False,17,2,5,5,0,0.166
+datasets/generated_large_medium.fol,medium_transitivity_04,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_04,improved,valid,True,8,3,0,5,0,0.104
+datasets/generated_large_medium.fol,medium_distrib_valid_04,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_04,improved,valid,True,10,4,0,6,0,0.131
+datasets/generated_large_medium.fol,medium_demorgan_valid_04,baseline,valid,True,8,2,0,5,0,0.095
+datasets/generated_large_medium.fol,medium_demorgan_valid_04,improved,valid,True,8,2,0,5,0,0.121
+datasets/generated_large_medium.fol,medium_case_valid_04,baseline,valid,True,10,4,0,6,0,0.121
+datasets/generated_large_medium.fol,medium_case_valid_04,improved,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_invalid_converse_04,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_04,improved,not proved,False,6,0,2,3,0,0.064
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_04,baseline,not proved,False,8,1,1,5,0,0.094
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_04,improved,not proved,False,17,2,5,5,0,0.167
+datasets/generated_large_medium.fol,medium_transitivity_05,baseline,valid,True,8,3,0,5,0,0.090
+datasets/generated_large_medium.fol,medium_transitivity_05,improved,valid,True,8,3,0,5,0,0.102
+datasets/generated_large_medium.fol,medium_distrib_valid_05,baseline,valid,True,10,4,0,6,0,0.121
+datasets/generated_large_medium.fol,medium_distrib_valid_05,improved,valid,True,10,4,0,6,0,0.163
+datasets/generated_large_medium.fol,medium_demorgan_valid_05,baseline,valid,True,8,2,0,5,0,0.098
+datasets/generated_large_medium.fol,medium_demorgan_valid_05,improved,valid,True,8,2,0,5,0,0.102
+datasets/generated_large_medium.fol,medium_case_valid_05,baseline,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_case_valid_05,improved,valid,True,10,4,0,6,0,0.137
+datasets/generated_large_medium.fol,medium_invalid_converse_05,baseline,not proved,False,4,0,1,3,0,0.060
+datasets/generated_large_medium.fol,medium_invalid_converse_05,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_05,baseline,not proved,False,8,1,1,5,0,0.095
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_05,improved,not proved,False,17,2,5,5,0,0.166
+datasets/generated_large_medium.fol,medium_transitivity_06,baseline,valid,True,8,3,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_transitivity_06,improved,valid,True,8,3,0,5,0,0.102
+datasets/generated_large_medium.fol,medium_distrib_valid_06,baseline,valid,True,10,4,0,6,0,0.120
+datasets/generated_large_medium.fol,medium_distrib_valid_06,improved,valid,True,10,4,0,6,0,0.132
+datasets/generated_large_medium.fol,medium_demorgan_valid_06,baseline,valid,True,8,2,0,5,0,0.095
+datasets/generated_large_medium.fol,medium_demorgan_valid_06,improved,valid,True,8,2,0,5,0,0.100
+datasets/generated_large_medium.fol,medium_case_valid_06,baseline,valid,True,10,4,0,6,0,0.120
+datasets/generated_large_medium.fol,medium_case_valid_06,improved,valid,True,10,4,0,6,0,0.146
+datasets/generated_large_medium.fol,medium_invalid_converse_06,baseline,not proved,False,4,0,1,3,0,0.049
+datasets/generated_large_medium.fol,medium_invalid_converse_06,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_06,baseline,not proved,False,8,1,1,5,0,0.095
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_06,improved,not proved,False,17,2,5,5,0,0.165
+datasets/generated_large_medium.fol,medium_transitivity_07,baseline,valid,True,8,3,0,5,0,0.088
+datasets/generated_large_medium.fol,medium_transitivity_07,improved,valid,True,8,3,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_distrib_valid_07,baseline,valid,True,10,4,0,6,0,0.124
+datasets/generated_large_medium.fol,medium_distrib_valid_07,improved,valid,True,10,4,0,6,0,0.132
+datasets/generated_large_medium.fol,medium_demorgan_valid_07,baseline,valid,True,8,2,0,5,0,0.095
+datasets/generated_large_medium.fol,medium_demorgan_valid_07,improved,valid,True,8,2,0,5,0,0.100
+datasets/generated_large_medium.fol,medium_case_valid_07,baseline,valid,True,10,4,0,6,0,0.120
+datasets/generated_large_medium.fol,medium_case_valid_07,improved,valid,True,10,4,0,6,0,0.137
+datasets/generated_large_medium.fol,medium_invalid_converse_07,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_07,improved,not proved,False,6,0,2,3,0,0.070
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_07,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_07,improved,not proved,False,17,2,5,5,0,0.166
+datasets/generated_large_medium.fol,medium_transitivity_08,baseline,valid,True,8,3,0,5,0,0.090
+datasets/generated_large_medium.fol,medium_transitivity_08,improved,valid,True,8,3,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_distrib_valid_08,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_08,improved,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_demorgan_valid_08,baseline,valid,True,8,2,0,5,0,0.096
+datasets/generated_large_medium.fol,medium_demorgan_valid_08,improved,valid,True,8,2,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_case_valid_08,baseline,valid,True,10,4,0,6,0,0.165
+datasets/generated_large_medium.fol,medium_case_valid_08,improved,valid,True,10,4,0,6,0,0.134
+datasets/generated_large_medium.fol,medium_invalid_converse_08,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_08,improved,not proved,False,6,0,2,3,0,0.074
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_08,baseline,not proved,False,8,1,1,5,0,0.097
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_08,improved,not proved,False,17,2,5,5,0,0.166
+datasets/generated_large_medium.fol,medium_transitivity_09,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_09,improved,valid,True,8,3,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_distrib_valid_09,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_09,improved,valid,True,10,4,0,6,0,0.131
+datasets/generated_large_medium.fol,medium_demorgan_valid_09,baseline,valid,True,8,2,0,5,0,0.097
+datasets/generated_large_medium.fol,medium_demorgan_valid_09,improved,valid,True,8,2,0,5,0,0.100
+datasets/generated_large_medium.fol,medium_case_valid_09,baseline,valid,True,10,4,0,6,0,0.122
+datasets/generated_large_medium.fol,medium_case_valid_09,improved,valid,True,10,4,0,6,0,0.136
+datasets/generated_large_medium.fol,medium_invalid_converse_09,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_09,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_09,baseline,not proved,False,8,1,1,5,0,0.097
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_09,improved,not proved,False,17,2,5,5,0,0.169
+datasets/generated_large_medium.fol,medium_transitivity_10,baseline,valid,True,8,3,0,5,0,0.090
+datasets/generated_large_medium.fol,medium_transitivity_10,improved,valid,True,8,3,0,5,0,0.104
+datasets/generated_large_medium.fol,medium_distrib_valid_10,baseline,valid,True,10,4,0,6,0,0.118
+datasets/generated_large_medium.fol,medium_distrib_valid_10,improved,valid,True,10,4,0,6,0,0.132
+datasets/generated_large_medium.fol,medium_demorgan_valid_10,baseline,valid,True,8,2,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_demorgan_valid_10,improved,valid,True,8,2,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_case_valid_10,baseline,valid,True,10,4,0,6,0,0.124
+datasets/generated_large_medium.fol,medium_case_valid_10,improved,valid,True,10,4,0,6,0,0.138
+datasets/generated_large_medium.fol,medium_invalid_converse_10,baseline,not proved,False,4,0,1,3,0,0.049
+datasets/generated_large_medium.fol,medium_invalid_converse_10,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_10,baseline,not proved,False,8,1,1,5,0,0.097
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_10,improved,not proved,False,17,2,5,5,0,0.167
+datasets/generated_large_medium.fol,medium_transitivity_11,baseline,valid,True,8,3,0,5,0,0.091
+datasets/generated_large_medium.fol,medium_transitivity_11,improved,valid,True,8,3,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_distrib_valid_11,baseline,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_distrib_valid_11,improved,valid,True,10,4,0,6,0,0.134
+datasets/generated_large_medium.fol,medium_demorgan_valid_11,baseline,valid,True,8,2,0,5,0,0.097
+datasets/generated_large_medium.fol,medium_demorgan_valid_11,improved,valid,True,8,2,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_case_valid_11,baseline,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_case_valid_11,improved,valid,True,10,4,0,6,0,0.183
+datasets/generated_large_medium.fol,medium_invalid_converse_11,baseline,not proved,False,4,0,1,3,0,0.082
+datasets/generated_large_medium.fol,medium_invalid_converse_11,improved,not proved,False,6,0,2,3,0,0.080
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_11,baseline,not proved,False,8,1,1,5,0,0.130
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_11,improved,not proved,False,17,2,5,5,0,0.193
+datasets/generated_large_medium.fol,medium_transitivity_12,baseline,valid,True,8,3,0,5,0,0.092
+datasets/generated_large_medium.fol,medium_transitivity_12,improved,valid,True,8,3,0,5,0,0.104
+datasets/generated_large_medium.fol,medium_distrib_valid_12,baseline,valid,True,10,4,0,6,0,0.120
+datasets/generated_large_medium.fol,medium_distrib_valid_12,improved,valid,True,10,4,0,6,0,0.132
+datasets/generated_large_medium.fol,medium_demorgan_valid_12,baseline,valid,True,8,2,0,5,0,0.098
+datasets/generated_large_medium.fol,medium_demorgan_valid_12,improved,valid,True,8,2,0,5,0,0.100
+datasets/generated_large_medium.fol,medium_case_valid_12,baseline,valid,True,10,4,0,6,0,0.123
+datasets/generated_large_medium.fol,medium_case_valid_12,improved,valid,True,10,4,0,6,0,0.136
+datasets/generated_large_medium.fol,medium_invalid_converse_12,baseline,not proved,False,4,0,1,3,0,0.051
+datasets/generated_large_medium.fol,medium_invalid_converse_12,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_12,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_12,improved,not proved,False,17,2,5,5,0,0.167
+datasets/generated_large_medium.fol,medium_transitivity_13,baseline,valid,True,8,3,0,5,0,0.090
+datasets/generated_large_medium.fol,medium_transitivity_13,improved,valid,True,8,3,0,5,0,0.104
+datasets/generated_large_medium.fol,medium_distrib_valid_13,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_13,improved,valid,True,10,4,0,6,0,0.131
+datasets/generated_large_medium.fol,medium_demorgan_valid_13,baseline,valid,True,8,2,0,5,0,0.095
+datasets/generated_large_medium.fol,medium_demorgan_valid_13,improved,valid,True,8,2,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_case_valid_13,baseline,valid,True,10,4,0,6,0,0.123
+datasets/generated_large_medium.fol,medium_case_valid_13,improved,valid,True,10,4,0,6,0,0.135
+datasets/generated_large_medium.fol,medium_invalid_converse_13,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_13,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_13,baseline,not proved,False,8,1,1,5,0,0.097
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_13,improved,not proved,False,17,2,5,5,0,0.170
+datasets/generated_large_medium.fol,medium_transitivity_14,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_14,improved,valid,True,8,3,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_distrib_valid_14,baseline,valid,True,10,4,0,6,0,0.121
+datasets/generated_large_medium.fol,medium_distrib_valid_14,improved,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_demorgan_valid_14,baseline,valid,True,8,2,0,5,0,0.108
+datasets/generated_large_medium.fol,medium_demorgan_valid_14,improved,valid,True,8,2,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_case_valid_14,baseline,valid,True,10,4,0,6,0,0.126
+datasets/generated_large_medium.fol,medium_case_valid_14,improved,valid,True,10,4,0,6,0,0.145
+datasets/generated_large_medium.fol,medium_invalid_converse_14,baseline,not proved,False,4,0,1,3,0,0.051
+datasets/generated_large_medium.fol,medium_invalid_converse_14,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_14,baseline,not proved,False,8,1,1,5,0,0.095
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_14,improved,not proved,False,17,2,5,5,0,0.170
+datasets/generated_large_medium.fol,medium_transitivity_15,baseline,valid,True,8,3,0,5,0,0.090
+datasets/generated_large_medium.fol,medium_transitivity_15,improved,valid,True,8,3,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_distrib_valid_15,baseline,valid,True,10,4,0,6,0,0.131
+datasets/generated_large_medium.fol,medium_distrib_valid_15,improved,valid,True,10,4,0,6,0,0.133
+datasets/generated_large_medium.fol,medium_demorgan_valid_15,baseline,valid,True,8,2,0,5,0,0.097
+datasets/generated_large_medium.fol,medium_demorgan_valid_15,improved,valid,True,8,2,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_case_valid_15,baseline,valid,True,10,4,0,6,0,0.122
+datasets/generated_large_medium.fol,medium_case_valid_15,improved,valid,True,10,4,0,6,0,0.136
+datasets/generated_large_medium.fol,medium_invalid_converse_15,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_15,improved,not proved,False,6,0,2,3,0,0.069
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_15,baseline,not proved,False,8,1,1,5,0,0.097
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_15,improved,not proved,False,17,2,5,5,0,0.166
+datasets/generated_large_medium.fol,medium_transitivity_16,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_16,improved,valid,True,8,3,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_distrib_valid_16,baseline,valid,True,10,4,0,6,0,0.118
+datasets/generated_large_medium.fol,medium_distrib_valid_16,improved,valid,True,10,4,0,6,0,0.130
+datasets/generated_large_medium.fol,medium_demorgan_valid_16,baseline,valid,True,8,2,0,5,0,0.096
+datasets/generated_large_medium.fol,medium_demorgan_valid_16,improved,valid,True,8,2,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_case_valid_16,baseline,valid,True,10,4,0,6,0,0.122
+datasets/generated_large_medium.fol,medium_case_valid_16,improved,valid,True,10,4,0,6,0,0.136
+datasets/generated_large_medium.fol,medium_invalid_converse_16,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_16,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_16,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_16,improved,not proved,False,17,2,5,5,0,0.165
+datasets/generated_large_medium.fol,medium_transitivity_17,baseline,valid,True,8,3,0,5,0,0.088
+datasets/generated_large_medium.fol,medium_transitivity_17,improved,valid,True,8,3,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_distrib_valid_17,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_17,improved,valid,True,10,4,0,6,0,0.131
+datasets/generated_large_medium.fol,medium_demorgan_valid_17,baseline,valid,True,8,2,0,5,0,0.102
+datasets/generated_large_medium.fol,medium_demorgan_valid_17,improved,valid,True,8,2,0,5,0,0.100
+datasets/generated_large_medium.fol,medium_case_valid_17,baseline,valid,True,10,4,0,6,0,0.145
+datasets/generated_large_medium.fol,medium_case_valid_17,improved,valid,True,10,4,0,6,0,0.149
+datasets/generated_large_medium.fol,medium_invalid_converse_17,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_17,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_17,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_17,improved,not proved,False,17,2,5,5,0,0.185
+datasets/generated_large_medium.fol,medium_transitivity_18,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_18,improved,valid,True,8,3,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_distrib_valid_18,baseline,valid,True,10,4,0,6,0,0.121
+datasets/generated_large_medium.fol,medium_distrib_valid_18,improved,valid,True,10,4,0,6,0,0.131
+datasets/generated_large_medium.fol,medium_demorgan_valid_18,baseline,valid,True,8,2,0,5,0,0.095
+datasets/generated_large_medium.fol,medium_demorgan_valid_18,improved,valid,True,8,2,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_case_valid_18,baseline,valid,True,10,4,0,6,0,0.122
+datasets/generated_large_medium.fol,medium_case_valid_18,improved,valid,True,10,4,0,6,0,0.134
+datasets/generated_large_medium.fol,medium_invalid_converse_18,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_18,improved,not proved,False,6,0,2,3,0,0.066
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_18,baseline,not proved,False,8,1,1,5,0,0.097
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_18,improved,not proved,False,17,2,5,5,0,0.166
+datasets/generated_large_medium.fol,medium_transitivity_19,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_19,improved,valid,True,8,3,0,5,0,0.111
+datasets/generated_large_medium.fol,medium_distrib_valid_19,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_19,improved,valid,True,10,4,0,6,0,0.132
+datasets/generated_large_medium.fol,medium_demorgan_valid_19,baseline,valid,True,8,2,0,5,0,0.096
+datasets/generated_large_medium.fol,medium_demorgan_valid_19,improved,valid,True,8,2,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_case_valid_19,baseline,valid,True,10,4,0,6,0,0.122
+datasets/generated_large_medium.fol,medium_case_valid_19,improved,valid,True,10,4,0,6,0,0.135
+datasets/generated_large_medium.fol,medium_invalid_converse_19,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_19,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_19,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_19,improved,not proved,False,17,2,5,5,0,0.164
+datasets/generated_large_medium.fol,medium_transitivity_20,baseline,valid,True,8,3,0,5,0,0.089
+datasets/generated_large_medium.fol,medium_transitivity_20,improved,valid,True,8,3,0,5,0,0.101
+datasets/generated_large_medium.fol,medium_distrib_valid_20,baseline,valid,True,10,4,0,6,0,0.119
+datasets/generated_large_medium.fol,medium_distrib_valid_20,improved,valid,True,10,4,0,6,0,0.130
+datasets/generated_large_medium.fol,medium_demorgan_valid_20,baseline,valid,True,8,2,0,5,0,0.103
+datasets/generated_large_medium.fol,medium_demorgan_valid_20,improved,valid,True,8,2,0,5,0,0.099
+datasets/generated_large_medium.fol,medium_case_valid_20,baseline,valid,True,10,4,0,6,0,0.121
+datasets/generated_large_medium.fol,medium_case_valid_20,improved,valid,True,10,4,0,6,0,0.134
+datasets/generated_large_medium.fol,medium_invalid_converse_20,baseline,not proved,False,4,0,1,3,0,0.050
+datasets/generated_large_medium.fol,medium_invalid_converse_20,improved,not proved,False,6,0,2,3,0,0.065
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_20,baseline,not proved,False,8,1,1,5,0,0.096
+datasets/generated_large_medium.fol,medium_invalid_demorgan_reverse_20,improved,not proved,False,17,2,5,5,0,0.170
